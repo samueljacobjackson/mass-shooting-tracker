@@ -1,0 +1,88 @@
+{
+  "intents": [
+    {
+      "intent": "SumDuringIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        }
+      ]
+    },
+    {
+      "intent": "SumSinceIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        }
+      ]
+    },
+    {
+      "intent": "CountDuringIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        }
+      ]
+    },
+    {
+      "intent": "CountSinceIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        }
+      ]
+    }
+  ]
+}

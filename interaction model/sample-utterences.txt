@@ -1,0 +1,574 @@
+SumDuringIntent how many people {category} in {date} in {city} {state}
+SumDuringIntent how many people {category} in {date} in {city}
+SumDuringIntent how many people {category} in {date} in {state}
+SumDuringIntent how many people {category} in {date}
+SumDuringIntent how many people {category} on {date} in {city} {state}
+SumDuringIntent how many people {category} on {date} in {city}
+SumDuringIntent how many people {category} on {date} in {state}
+SumDuringIntent how many people {category} on {date}
+SumDuringIntent how many people {category} during {date} in {city} {state}
+SumDuringIntent how many people {category} during {date} in {city}
+SumDuringIntent how many people {category} during {date} in {state}
+SumDuringIntent how many people {category} during {date}
+SumDuringIntent how many people {category} in {city} {state}
+SumDuringIntent how many people {category} in {city}
+SumDuringIntent how many people {category} in {state}
+SumDuringIntent how many people {category}
+SumDuringIntent how many {category} in {date} in {city} {state}
+SumDuringIntent how many {category} in {date} in {city}
+SumDuringIntent how many {category} in {date} in {state}
+SumDuringIntent how many {category} in {date}
+SumDuringIntent how many {category} on {date} in {city} {state}
+SumDuringIntent how many {category} on {date} in {city}
+SumDuringIntent how many {category} on {date} in {state}
+SumDuringIntent how many {category} on {date}
+SumDuringIntent how many {category} during {date} in {city} {state}
+SumDuringIntent how many {category} during {date} in {city}
+SumDuringIntent how many {category} during {date} in {state}
+SumDuringIntent how many {category} during {date}
+SumDuringIntent how many {category} in {city} {state}
+SumDuringIntent how many {category} in {city}
+SumDuringIntent how many {category} in {state}
+SumDuringIntent how many {category}
+SumDuringIntent how many people were {category} in {date} in {city} {state}
+SumDuringIntent how many people were {category} in {date} in {city}
+SumDuringIntent how many people were {category} in {date} in {state}
+SumDuringIntent how many people were {category} in {date}
+SumDuringIntent how many people were {category} on {date} in {city} {state}
+SumDuringIntent how many people were {category} on {date} in {city}
+SumDuringIntent how many people were {category} on {date} in {state}
+SumDuringIntent how many people were {category} on {date}
+SumDuringIntent how many people were {category} during {date} in {city} {state}
+SumDuringIntent how many people were {category} during {date} in {city}
+SumDuringIntent how many people were {category} during {date} in {state}
+SumDuringIntent how many people were {category} during {date}
+SumDuringIntent how many people were {category} in {city} {state}
+SumDuringIntent how many people were {category} in {city}
+SumDuringIntent how many people were {category} in {state}
+SumDuringIntent how many people were {category}
+SumDuringIntent how many were {category} in {date} in {city} {state}
+SumDuringIntent how many were {category} in {date} in {city}
+SumDuringIntent how many were {category} in {date} in {state}
+SumDuringIntent how many were {category} in {date}
+SumDuringIntent how many were {category} on {date} in {city} {state}
+SumDuringIntent how many were {category} on {date} in {city}
+SumDuringIntent how many were {category} on {date} in {state}
+SumDuringIntent how many were {category} on {date}
+SumDuringIntent how many were {category} during {date} in {city} {state}
+SumDuringIntent how many were {category} during {date} in {city}
+SumDuringIntent how many were {category} during {date} in {state}
+SumDuringIntent how many were {category} during {date}
+SumDuringIntent how many were {category} in {city} {state}
+SumDuringIntent how many were {category} in {city}
+SumDuringIntent how many were {category} in {state}
+SumDuringIntent how many were {category}
+SumDuringIntent how many people were {category} in {city} {state} in {date}
+SumDuringIntent how many people were {category} in {city} in {date}
+SumDuringIntent how many people were {category} in {state} in {date}
+SumDuringIntent how many people were {category} in {city} {state} on {date}
+SumDuringIntent how many people were {category} in {state} on {date}
+SumDuringIntent how many people were {category} in {city} on {date}
+SumDuringIntent how many people were {category} in {city} {state} during {date}
+SumDuringIntent how many people were {category} in {state} during {date}
+SumDuringIntent how many people were {category} in {city} during {date}
+SumDuringIntent how many were {category} in {city} {state} in {date}
+SumDuringIntent how many were {category} in {city} in {date}
+SumDuringIntent how many were {category} in {state} in {date}
+SumDuringIntent how many were {category} in {city} {state} on {date}
+SumDuringIntent how many were {category} in {state} on {date}
+SumDuringIntent how many were {category} in {city} on {date}
+SumDuringIntent how many were {category} in {city} {state} during {date}
+SumDuringIntent how many were {category} in {state} during {date}
+SumDuringIntent how many were {category} in {city} during {date}
+SumDuringIntent how many {category} in {city} {state} in {date}
+SumDuringIntent how many {category} in {city} in {date}
+SumDuringIntent how many {category} in {state} in {date}
+SumDuringIntent how many {category} in {city} {state} on {date}
+SumDuringIntent how many {category} in {state} on {date}
+SumDuringIntent how many {category} in {city} on {date}
+SumDuringIntent how many {category} in {city} {state} during {date}
+SumDuringIntent how many {category} in {state} during {date}
+SumDuringIntent how many {category} in {city} during {date}
+SumDuringIntent how many people {category} in {city} {state} in {date}
+SumDuringIntent how many people {category} in {city} in {date}
+SumDuringIntent how many people {category} in {state} in {date}
+SumDuringIntent how many people {category} in {city} {state} on {date}
+SumDuringIntent how many people {category} in {state} on {date}
+SumDuringIntent how many people {category} in {city} on {date}
+SumDuringIntent how many people {category} in {city} {state} during {date}
+SumDuringIntent how many people {category} in {state} during {date}
+SumDuringIntent how many people {category} in {city} during {date}
+SumDuringIntent in {city} {state} how many people were {category} in {date}
+SumDuringIntent in {city} how many people were {category} in {date}
+SumDuringIntent in {state} how many people were {category} in {date}
+SumDuringIntent in {city} {state} how many people were {category} on {date}
+SumDuringIntent in {city} how many people were {category} on {date}
+SumDuringIntent in {state} how many people were {category} on {date}
+SumDuringIntent in {city} {state} how many people were {category} during {date}
+SumDuringIntent in {city} how many people were {category} during {date}
+SumDuringIntent in {state} how many people were {category} during {date}
+SumDuringIntent in {city} {state} how many people were {category}
+SumDuringIntent in {city} how many people were {category}
+SumDuringIntent in {state} how many people were {category}
+SumDuringIntent in {city} {state} how many were {category} in {date}
+SumDuringIntent in {city} how many were {category} in {date}
+SumDuringIntent in {state} how many were {category} in {date}
+SumDuringIntent in {city} {state} how many were {category} on {date}
+SumDuringIntent in {city} how many were {category} on {date}
+SumDuringIntent in {state} how many were {category} on {date}
+SumDuringIntent in {city} {state} how many were {category} during {date}
+SumDuringIntent in {city} how many were {category} during {date}
+SumDuringIntent in {state} how many were {category} during {date}
+SumDuringIntent in {city} {state} how many were {category}
+SumDuringIntent in {city} how many were {category}
+SumDuringIntent in {state} how many were {category}
+SumDuringIntent in {city} {state} how many {category} in {date}
+SumDuringIntent in {city} how many {category} in {date}
+SumDuringIntent in {state} how many {category} in {date}
+SumDuringIntent in {city} {state} how many {category} on {date}
+SumDuringIntent in {city} how many {category} on {date}
+SumDuringIntent in {state} how many {category} on {date}
+SumDuringIntent in {city} {state} how many {category} during {date}
+SumDuringIntent in {city} how many {category} during {date}
+SumDuringIntent in {state} how many {category} during {date}
+SumDuringIntent in {city} {state} how many {category}
+SumDuringIntent in {city} how many {category}
+SumDuringIntent in {state} how many {category}
+SumDuringIntent in {city} {state} how many people {category} in {date}
+SumDuringIntent in {city} how many people {category} in {date}
+SumDuringIntent in {state} how many people {category} in {date}
+SumDuringIntent in {city} {state} how many people {category} on {date}
+SumDuringIntent in {city} how many people {category} on {date}
+SumDuringIntent in {state} how many people {category} on {date}
+SumDuringIntent in {city} {state} how many people {category} during {date}
+SumDuringIntent in {city} how many people {category} during {date}
+SumDuringIntent in {state} how many people {category} during {date}
+SumDuringIntent in {city} {state} how many people {category}
+SumDuringIntent in {city} how many people {category}
+SumDuringIntent in {state} how many people {category}
+SumSinceIntent how many people {category} since {date} in {city} {state}
+SumSinceIntent how many people {category} since {date} in {city}
+SumSinceIntent how many people {category} since {date} in {state}
+SumSinceIntent how many people {category} since {date}
+SumSinceIntent how many people {category} after {date} in {city} {state}
+SumSinceIntent how many people {category} after {date} in {city}
+SumSinceIntent how many people {category} after {date} in {state}
+SumSinceIntent how many people {category} after {date}
+SumSinceIntent how many {category} since {date} in {city} {state}
+SumSinceIntent how many {category} since {date} in {city}
+SumSinceIntent how many {category} since {date} in {state}
+SumSinceIntent how many {category} since {date}
+SumSinceIntent how many {category} after {date} in {city} {state}
+SumSinceIntent how many {category} after {date} in {city}
+SumSinceIntent how many {category} after {date} in {state}
+SumSinceIntent how many {category} after {date}
+SumSinceIntent how many people were {category} since {date} in {city} {state}
+SumSinceIntent how many people were {category} since {date} in {city}
+SumSinceIntent how many people were {category} since {date} in {state}
+SumSinceIntent how many people were {category} since {date}
+SumSinceIntent how many people were {category} after {date} in {city} {state}
+SumSinceIntent how many people were {category} after {date} in {city}
+SumSinceIntent how many people were {category} after {date} in {state}
+SumSinceIntent how many people were {category} after {date}
+SumSinceIntent how many were {category} since {date} in {city} {state}
+SumSinceIntent how many were {category} since {date} in {city}
+SumSinceIntent how many were {category} since {date} in {state}
+SumSinceIntent how many were {category} since {date}
+SumSinceIntent how many were {category} after {date} in {city} {state}
+SumSinceIntent how many were {category} after {date} in {city}
+SumSinceIntent how many were {category} after {date} in {state}
+SumSinceIntent how many were {category} after {date}
+SumSinceIntent how many people were {category} in {city} {state} since {date}
+SumSinceIntent how many people were {category} in {city} since {date}
+SumSinceIntent how many people were {category} in {state} since {date}
+SumSinceIntent how many people were {category} in {city} {state} after {date}
+SumSinceIntent how many people were {category} in {state} after {date}
+SumSinceIntent how many people were {category} in {city} after {date}
+SumSinceIntent how many were {category} in {city} {state} since {date}
+SumSinceIntent how many were {category} in {city} since {date}
+SumSinceIntent how many were {category} in {state} since {date}
+SumSinceIntent how many were {category} in {city} {state} after {date}
+SumSinceIntent how many were {category} in {state} after {date}
+SumSinceIntent how many were {category} in {city} after {date}
+SumSinceIntent how many {category} in {city} {state} since {date}
+SumSinceIntent how many {category} in {city} since {date}
+SumSinceIntent how many {category} in {state} since {date}
+SumSinceIntent how many {category} in {city} {state} after {date}
+SumSinceIntent how many {category} in {state} after {date}
+SumSinceIntent how many {category} in {city} after {date}
+SumSinceIntent how many people {category} in {city} {state} since {date}
+SumSinceIntent how many people {category} in {city} since {date}
+SumSinceIntent how many people {category} in {state} since {date}
+SumSinceIntent how many people {category} in {city} {state} after {date}
+SumSinceIntent how many people {category} in {state} after {date}
+SumSinceIntent how many people {category} in {city} after {date}
+SumSinceIntent in {city} {state} how many people were {category} since {date}
+SumSinceIntent in {city} how many people were {category} since {date}
+SumSinceIntent in {state} how many people were {category} since {date}
+SumSinceIntent in {city} {state} how many people were {category} after {date}
+SumSinceIntent in {city} how many people were {category} after {date}
+SumSinceIntent in {state} how many people were {category} after {date}
+SumSinceIntent in {city} {state} how many were {category} since {date}
+SumSinceIntent in {city} how many were {category} since {date}
+SumSinceIntent in {state} how many were {category} since {date}
+SumSinceIntent in {city} {state} how many were {category} after {date}
+SumSinceIntent in {city} how many were {category} after {date}
+SumSinceIntent in {state} how many were {category} after {date}
+SumSinceIntent in {city} {state} how many {category} since {date}
+SumSinceIntent in {city} how many {category} since {date}
+SumSinceIntent in {state} how many {category} since {date}
+SumSinceIntent in {city} {state} how many {category} after {date}
+SumSinceIntent in {city} how many {category} after {date}
+SumSinceIntent in {state} how many {category} after {date}
+SumSinceIntent in {city} {state} how many people {category} since {date}
+SumSinceIntent in {city} how many people {category} since {date}
+SumSinceIntent in {state} how many people {category} since {date}
+SumSinceIntent in {city} {state} how many people {category} after {date}
+SumSinceIntent in {city} how many people {category} after {date}
+SumSinceIntent in {state} how many people {category} after {date}
+SumSinceIntent since {date} how many people were {category} in {city} {state} 
+SumSinceIntent since {date} how many people were {category} in {state} 
+SumSinceIntent since {date} how many people were {category} in {city}
+SumSinceIntent since {date} how many people were {category} 
+SumSinceIntent after {date} how many people were {category} in {city} {state} 
+SumSinceIntent after {date} how many people were {category} in {state} 
+SumSinceIntent after {date} how many people were {category} in {city}
+SumSinceIntent after {date} how many people were {category}
+SumSinceIntent since {date} how many people {category} in {city} {state} 
+SumSinceIntent since {date} how many people {category} in {state} 
+SumSinceIntent since {date} how many people {category} in {city}
+SumSinceIntent since {date} how many people {category} 
+SumSinceIntent after {date} how many people {category} in {city} {state} 
+SumSinceIntent after {date} how many people {category} in {state} 
+SumSinceIntent after {date} how many people {category} in {city}
+SumSinceIntent after {date} how many people {category}
+SumSinceIntent since {date} how many were {category} in {city} {state} 
+SumSinceIntent since {date} how many were {category} in {state} 
+SumSinceIntent since {date} how many were {category} in {city}
+SumSinceIntent since {date} how many were {category} 
+SumSinceIntent after {date} how many were {category} in {city} {state} 
+SumSinceIntent after {date} how many were {category} in {state} 
+SumSinceIntent after {date} how many were {category} in {city}
+SumSinceIntent after {date} how many were {category}
+SumSinceIntent since {date} how many {category} in {city} {state} 
+SumSinceIntent since {date} how many {category} in {state} 
+SumSinceIntent since {date} how many {category} in {city}
+SumSinceIntent since {date} how many {category} 
+SumSinceIntent after {date} how many {category} in {city} {state} 
+SumSinceIntent after {date} how many {category} in {state} 
+SumSinceIntent after {date} how many {category} in {city}
+SumSinceIntent after {date} how many {category}
+CountDuringIntent mass shootings in {date} in {city} {state}
+CountDuringIntent mass shootings in {date} in {city}
+CountDuringIntent mass shootings in {date} in {state}
+CountDuringIntent mass shootings in {date}
+CountDuringIntent mass shootings on {date} in {city} {state}
+CountDuringIntent mass shootings on {date} in {city}
+CountDuringIntent mass shootings on {date} in {state}
+CountDuringIntent mass shootings on {date}
+CountDuringIntent mass shootings during {date} in {city} {state}
+CountDuringIntent mass shootings during {date} in {city}
+CountDuringIntent mass shootings during {date} in {state}
+CountDuringIntent mass shootings during {date}
+CountDuringIntent mass shootings in {city} {state}
+CountDuringIntent mass shootings in {city}
+CountDuringIntent mass shootings in {state}
+CountDuringIntent how many in {date} in {city} {state}
+CountDuringIntent how many in {date} in {city}
+CountDuringIntent how many in {date} in {state}
+CountDuringIntent how many in {date}
+CountDuringIntent how many on {date} in {city} {state}
+CountDuringIntent how many on {date} in {city}
+CountDuringIntent how many on {date} in {state}
+CountDuringIntent how many on {date}
+CountDuringIntent how many during {date} in {city} {state}
+CountDuringIntent how many during {date} in {city}
+CountDuringIntent how many during {date} in {state}
+CountDuringIntent how many during {date}
+CountDuringIntent how many in {city} {state}
+CountDuringIntent how many in {city}
+CountDuringIntent how many in {state}
+CountDuringIntent how many mass shootings were there in {date} in {city} {state}
+CountDuringIntent how many mass shootings were there in {date} in {city}
+CountDuringIntent how many mass shootings were there in {date} in {state}
+CountDuringIntent how many mass shootings were there in {date}
+CountDuringIntent how many mass shootings were there on {date} in {city} {state}
+CountDuringIntent how many mass shootings were there on {date} in {city}
+CountDuringIntent how many mass shootings were there on {date} in {state}
+CountDuringIntent how many mass shootings were there on {date}
+CountDuringIntent how many mass shootings were there during {date} in {city} {state}
+CountDuringIntent how many mass shootings were there during {date} in {city}
+CountDuringIntent how many mass shootings were there during {date} in {state}
+CountDuringIntent how many mass shootings were there during {date}
+CountDuringIntent how many mass shootings were there in {city} {state}
+CountDuringIntent how many mass shootings were there in {city}
+CountDuringIntent how many mass shootings were there in {state}
+CountDuringIntent how many mass shootings were there
+CountDuringIntent how mass shootings were in {date} in {city} {state}
+CountDuringIntent how mass shootings were in {date} in {city}
+CountDuringIntent how mass shootings were in {date} in {state}
+CountDuringIntent how mass shootings were in {date}
+CountDuringIntent how mass shootings were on {date} in {city} {state}
+CountDuringIntent how mass shootings were on {date} in {city}
+CountDuringIntent how mass shootings were on {date} in {state}
+CountDuringIntent how mass shootings were on {date}
+CountDuringIntent how mass shootings were during {date} in {city} {state}
+CountDuringIntent how mass shootings were during {date} in {city}
+CountDuringIntent how mass shootings were during {date} in {state}
+CountDuringIntent how mass shootings were during {date}
+CountDuringIntent how mass shootings were in {city} {state}
+CountDuringIntent how mass shootings were in {city}
+CountDuringIntent how mass shootings were in {state}
+CountDuringIntent how many mass shootings were there in {city} {state} in {date}
+CountDuringIntent how many mass shootings were there in {city} in {date}
+CountDuringIntent how many mass shootings were there in {state} in {date}
+CountDuringIntent how many mass shootings were there in {city} {state} on {date}
+CountDuringIntent how many mass shootings were there in {state} on {date}
+CountDuringIntent how many mass shootings were there in {city} on {date}
+CountDuringIntent how many mass shootings were there in {city} {state} during {date}
+CountDuringIntent how many mass shootings were there in {state} during {date}
+CountDuringIntent how many mass shootings were there in {city} during {date}
+CountDuringIntent how many mass shootings were there in {city} {state}
+CountDuringIntent how many mass shootings were there in {state}
+CountDuringIntent how many mass shootings were there in {city}
+CountDuringIntent how mass shootings were in {city} {state} in {date}
+CountDuringIntent how mass shootings were in {city} in {date}
+CountDuringIntent how mass shootings were in {state} in {date}
+CountDuringIntent how mass shootings were in {city} {state} on {date}
+CountDuringIntent how mass shootings were in {state} on {date}
+CountDuringIntent how mass shootings were in {city} on {date}
+CountDuringIntent how mass shootings were in {city} {state} during {date}
+CountDuringIntent how mass shootings were in {state} during {date}
+CountDuringIntent how mass shootings were in {city} during {date}
+CountDuringIntent how mass shootings were in {city} {state}
+CountDuringIntent how mass shootings were in {state}
+CountDuringIntent how mass shootings were in {city}
+CountDuringIntent how many in {city} {state} in {date}
+CountDuringIntent how many in {city} in {date}
+CountDuringIntent how many in {state} in {date}
+CountDuringIntent how many in {city} {state} on {date}
+CountDuringIntent how many in {state} on {date}
+CountDuringIntent how many in {city} on {date}
+CountDuringIntent how many in {city} {state} during {date}
+CountDuringIntent how many in {state} during {date}
+CountDuringIntent how many in {city} during {date}
+CountDuringIntent how many in {city} {state}
+CountDuringIntent how many in {state}
+CountDuringIntent how many in {city}
+CountDuringIntent mass shootings in {city} {state} in {date}
+CountDuringIntent mass shootings in {city} in {date}
+CountDuringIntent mass shootings in {state} in {date}
+CountDuringIntent mass shootings in {city} {state} on {date}
+CountDuringIntent mass shootings in {state} on {date}
+CountDuringIntent mass shootings in {city} on {date}
+CountDuringIntent mass shootings in {city} {state} during {date}
+CountDuringIntent mass shootings in {state} during {date}
+CountDuringIntent mass shootings in {city} during {date}
+CountDuringIntent mass shootings in {city} {state}
+CountDuringIntent mass shootings in {state}
+CountDuringIntent mass shootings in {city}
+CountDuringIntent in {city} {state} how many mass shootings were there in {date}
+CountDuringIntent in {city} how many mass shootings were there in {date}
+CountDuringIntent in {state} how many mass shootings were there in {date}
+CountDuringIntent in {city} {state} how many mass shootings were there on {date}
+CountDuringIntent in {city} how many mass shootings were there on {date}
+CountDuringIntent in {state} how many mass shootings were there on {date}
+CountDuringIntent in {city} {state} how many mass shootings were there during {date}
+CountDuringIntent in {city} how many mass shootings were there during {date}
+CountDuringIntent in {state} how many mass shootings were there during {date}
+CountDuringIntent in {city} {state} how many mass shootings were there
+CountDuringIntent in {city} how many mass shootings were there
+CountDuringIntent in {state} how many mass shootings were there
+CountDuringIntent in {city} {state} how mass shootings were in {date}
+CountDuringIntent in {city} how mass shootings were in {date}
+CountDuringIntent in {state} how mass shootings were in {date}
+CountDuringIntent in {city} {state} how mass shootings were on {date}
+CountDuringIntent in {city} how mass shootings were on {date}
+CountDuringIntent in {state} how mass shootings were on {date}
+CountDuringIntent in {city} {state} how mass shootings were during {date}
+CountDuringIntent in {city} how mass shootings were during {date}
+CountDuringIntent in {state} how mass shootings were during {date}
+CountDuringIntent in {city} {state} how many in {date}
+CountDuringIntent in {city} how many in {date}
+CountDuringIntent in {state} how many in {date}
+CountDuringIntent in {city} {state} how many on {date}
+CountDuringIntent in {city} how many on {date}
+CountDuringIntent in {state} how many on {date}
+CountDuringIntent in {city} {state} how many during {date}
+CountDuringIntent in {city} how many during {date}
+CountDuringIntent in {state} how many during {date}
+CountDuringIntent in {city} {state} how many
+CountDuringIntent in {city} how many
+CountDuringIntent in {state} how many
+CountDuringIntent in {city} {state} mass shootings in {date}
+CountDuringIntent in {city} mass shootings in {date}
+CountDuringIntent in {state} mass shootings in {date}
+CountDuringIntent in {city} {state} mass shootings on {date}
+CountDuringIntent in {city} mass shootings on {date}
+CountDuringIntent in {state} mass shootings on {date}
+CountDuringIntent in {city} {state} mass shootings during {date}
+CountDuringIntent in {city} mass shootings during {date}
+CountDuringIntent in {state} mass shootings during {date}
+CountDuringIntent in {city} {state} mass shootings
+CountDuringIntent in {city} mass shootings
+CountDuringIntent in {state} mass shootings
+CountDuringIntent in {date} how many mass shootings were there in {city} {state} 
+CountDuringIntent in {date} how many mass shootings were there in {state} 
+CountDuringIntent in {date} how many mass shootings were there in {city}
+CountDuringIntent in {date} how many mass shootings were there 
+CountDuringIntent on {date} how many mass shootings were there in {city} {state} 
+CountDuringIntent on {date} how many mass shootings were there in {state} 
+CountDuringIntent on {date} how many mass shootings were there in {city}
+CountDuringIntent on {date} how many mass shootings were there
+CountDuringIntent during {date} how many mass shootings were there in {city} {state} 
+CountDuringIntent during {date} how many mass shootings were there in {state} 
+CountDuringIntent during {date} how many mass shootings were there in {city}
+CountDuringIntent during {date} how many mass shootings were there
+CountDuringIntent in {date} mass shootings in {city} {state} 
+CountDuringIntent in {date} mass shootings in {state} 
+CountDuringIntent in {date} mass shootings in {city}
+CountDuringIntent in {date} mass shootings 
+CountDuringIntent on {date} mass shootings in {city} {state} 
+CountDuringIntent on {date} mass shootings in {state} 
+CountDuringIntent on {date} mass shootings in {city}
+CountDuringIntent on {date} mass shootings
+CountDuringIntent during {date} mass shootings in {city} {state} 
+CountDuringIntent during {date} mass shootings in {state} 
+CountDuringIntent during {date} mass shootings in {city}
+CountDuringIntent during {date} mass shootings
+CountDuringIntent in {date} how mass shootings were in {city} {state} 
+CountDuringIntent in {date} how mass shootings were in {state} 
+CountDuringIntent in {date} how mass shootings were in {city}
+CountDuringIntent in {date} how mass shootings were 
+CountDuringIntent on {date} how mass shootings were in {city} {state} 
+CountDuringIntent on {date} how mass shootings were in {state} 
+CountDuringIntent on {date} how mass shootings were in {city}
+CountDuringIntent on {date} how mass shootings were
+CountDuringIntent during {date} how mass shootings were in {city} {state} 
+CountDuringIntent during {date} how mass shootings were in {state} 
+CountDuringIntent during {date} how mass shootings were in {city}
+CountDuringIntent during {date} how mass shootings were
+CountDuringIntent in {date} how many in {city} {state} 
+CountDuringIntent in {date} how many in {state} 
+CountDuringIntent in {date} how many in {city}
+CountDuringIntent in {date} how many 
+CountDuringIntent on {date} how many in {city} {state} 
+CountDuringIntent on {date} how many in {state} 
+CountDuringIntent on {date} how many in {city}
+CountDuringIntent on {date} how many
+CountDuringIntent during {date} how many in {city} {state} 
+CountDuringIntent during {date} how many in {state} 
+CountDuringIntent during {date} how many in {city}
+CountDuringIntent during {date} how many
+CountSinceIntent mass shootings since {date} in {city} {state}
+CountSinceIntent mass shootings since {date} in {city}
+CountSinceIntent mass shootings since {date} in {state}
+CountSinceIntent mass shootings since {date}
+CountSinceIntent mass shootings after {date} in {city} {state}
+CountSinceIntent mass shootings after {date} in {city}
+CountSinceIntent mass shootings after {date} in {state}
+CountSinceIntent mass shootings after {date}
+CountSinceIntent how many since {date} in {city} {state}
+CountSinceIntent how many since {date} in {city}
+CountSinceIntent how many since {date} in {state}
+CountSinceIntent how many since {date}
+CountSinceIntent how many after {date} in {city} {state}
+CountSinceIntent how many after {date} in {city}
+CountSinceIntent how many after {date} in {state}
+CountSinceIntent how many after {date}
+CountSinceIntent how many mass shootings were there since {date} in {city} {state}
+CountSinceIntent how many mass shootings were there since {date} in {city}
+CountSinceIntent how many mass shootings were there since {date} in {state}
+CountSinceIntent how many mass shootings were there since {date}
+CountSinceIntent how many mass shootings were there after {date} in {city} {state}
+CountSinceIntent how many mass shootings were there after {date} in {city}
+CountSinceIntent how many mass shootings were there after {date} in {state}
+CountSinceIntent how many mass shootings were there after {date}
+CountSinceIntent how mass shootings were since {date} in {city} {state}
+CountSinceIntent how mass shootings were since {date} in {city}
+CountSinceIntent how mass shootings were since {date} in {state}
+CountSinceIntent how mass shootings were since {date}
+CountSinceIntent how mass shootings were after {date} in {city} {state}
+CountSinceIntent how mass shootings were after {date} in {city}
+CountSinceIntent how mass shootings were after {date} in {state}
+CountSinceIntent how mass shootings were after {date}
+CountSinceIntent how many mass shootings were there in {city} {state} since {date}
+CountSinceIntent how many mass shootings were there in {city} since {date}
+CountSinceIntent how many mass shootings were there in {state} since {date}
+CountSinceIntent how many mass shootings were there in {city} {state} after {date}
+CountSinceIntent how many mass shootings were there in {state} after {date}
+CountSinceIntent how many mass shootings were there in {city} after {date}
+CountSinceIntent how mass shootings were in {city} {state} since {date}
+CountSinceIntent how mass shootings were in {city} since {date}
+CountSinceIntent how mass shootings were in {state} since {date}
+CountSinceIntent how mass shootings were in {city} {state} after {date}
+CountSinceIntent how mass shootings were in {state} after {date}
+CountSinceIntent how mass shootings were in {city} after {date}
+CountSinceIntent how many in {city} {state} since {date}
+CountSinceIntent how many in {city} since {date}
+CountSinceIntent how many in {state} since {date}
+CountSinceIntent how many in {city} {state} after {date}
+CountSinceIntent how many in {state} after {date}
+CountSinceIntent how many in {city} after {date}
+CountSinceIntent mass shootings in {city} {state} since {date}
+CountSinceIntent mass shootings in {city} since {date}
+CountSinceIntent mass shootings in {state} since {date}
+CountSinceIntent mass shootings in {city} {state} after {date}
+CountSinceIntent mass shootings in {state} after {date}
+CountSinceIntent mass shootings in {city} after {date}
+CountSinceIntent in {city} {state} how many mass shootings were there since {date}
+CountSinceIntent in {city} how many mass shootings were there since {date}
+CountSinceIntent in {state} how many mass shootings were there since {date}
+CountSinceIntent in {city} {state} how many mass shootings were there after {date}
+CountSinceIntent in {city} how many mass shootings were there after {date}
+CountSinceIntent in {state} how many mass shootings were there after {date}
+CountSinceIntent in {city} {state} how mass shootings were since {date}
+CountSinceIntent in {city} how mass shootings were since {date}
+CountSinceIntent in {state} how mass shootings were since {date}
+CountSinceIntent in {city} {state} how mass shootings were after {date}
+CountSinceIntent in {city} how mass shootings were after {date}
+CountSinceIntent in {state} how mass shootings were after {date}
+CountSinceIntent in {city} {state} how many since {date}
+CountSinceIntent in {city} how many since {date}
+CountSinceIntent in {state} how many since {date}
+CountSinceIntent in {city} {state} how many after {date}
+CountSinceIntent in {city} how many after {date}
+CountSinceIntent in {state} how many after {date}
+CountSinceIntent in {city} {state} mass shootings since {date}
+CountSinceIntent in {city} mass shootings since {date}
+CountSinceIntent in {state} mass shootings since {date}
+CountSinceIntent in {city} {state} mass shootings after {date}
+CountSinceIntent in {city} mass shootings after {date}
+CountSinceIntent in {state} mass shootings after {date}
+CountSinceIntent since {date} how many mass shootings were there in {city} {state} 
+CountSinceIntent since {date} how many mass shootings were there in {state} 
+CountSinceIntent since {date} how many mass shootings were there in {city}
+CountSinceIntent since {date} how many mass shootings were there 
+CountSinceIntent after {date} how many mass shootings were there in {city} {state} 
+CountSinceIntent after {date} how many mass shootings were there in {state} 
+CountSinceIntent after {date} how many mass shootings were there in {city}
+CountSinceIntent after {date} how many mass shootings were there
+CountSinceIntent since {date} mass shootings in {city} {state} 
+CountSinceIntent since {date} mass shootings in {state} 
+CountSinceIntent since {date} mass shootings in {city}
+CountSinceIntent since {date} mass shootings 
+CountSinceIntent after {date} mass shootings in {city} {state} 
+CountSinceIntent after {date} mass shootings in {state} 
+CountSinceIntent after {date} mass shootings in {city}
+CountSinceIntent after {date} mass shootings
+CountSinceIntent since {date} how mass shootings were in {city} {state} 
+CountSinceIntent since {date} how mass shootings were in {state} 
+CountSinceIntent since {date} how mass shootings were in {city}
+CountSinceIntent since {date} how mass shootings were 
+CountSinceIntent after {date} how mass shootings were in {city} {state} 
+CountSinceIntent after {date} how mass shootings were in {state} 
+CountSinceIntent after {date} how mass shootings were in {city}
+CountSinceIntent after {date} how mass shootings were
+CountSinceIntent since {date} how many in {city} {state} 
+CountSinceIntent since {date} how many in {state} 
+CountSinceIntent since {date} how many in {city}
+CountSinceIntent since {date} how many 
+CountSinceIntent after {date} how many in {city} {state} 
+CountSinceIntent after {date} how many in {state} 
+CountSinceIntent after {date} how many in {city}
+CountSinceIntent after {date} how many
