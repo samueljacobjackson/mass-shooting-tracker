@@ -3,33 +3,33 @@ var tracker = require('./lib/tracker');
 var data = require('./lib/data');
 require('dotenv').config();
 
-var AsciiCode = function () {
+var MassShootingTracker = function () {
     AlexaSkill.call(this, process.env.APP_ID);
 };
 
-AsciiCode.prototype = Object.create(AlexaSkill.prototype);
-AsciiCode.prototype.constructor = AsciiCode;
+MassShootingTracker.prototype = Object.create(AlexaSkill.prototype);
+MassShootingTracker.prototype.constructor = MassShootingTracker;
 
-AsciiCode.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest, session) {
-    console.log("AsciiCode onSessionStarted requestId: " + sessionStartedRequest.requestId
+MassShootingTracker.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest, session) {
+    console.log("MassShootingTracker onSessionStarted requestId: " + sessionStartedRequest.requestId
         + ", sessionId: " + session.sessionId);
 };
 
-AsciiCode.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    console.log("AsciiCode onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
-    var speechOutput = '<speak>What would you like to know about mass shootings in america?</speak>';
-    var repromptText = '<speak>You inquire by date and or by city and state</speak>';
+MassShootingTracker.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
+    console.log("MassShootingTracker onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
+    var speechOutput = '<speak>What would you like to know about mass shootings in america? You may inquire how many people were shot, killed or wounded and filter by date, city and or state.</speak>';
+    var repromptText = '<speak>You may inquire how many people were shot, killed or wounded and filter by date, city and or state.</speak>';
     response.ask(speechOutput, repromptText);
 };
 
-AsciiCode.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
-    console.log("AsciiCode onSessionEnded requestId: " + sessionEndedRequest.requestId
+MassShootingTracker.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
+    console.log("MassShootingTracker onSessionEnded requestId: " + sessionEndedRequest.requestId
         + ", sessionId: " + session.sessionId);
 };
 
-AsciiCode.prototype.intentHandlers = {
+MassShootingTracker.prototype.intentHandlers = {
     "SumDuringIntent": function (intent, session, response) {
-        if (limitDate(intent.slots, response, false)){return;}
+        if (data.limitDate(intent.slots, response, false)){return;}
         var options = data.getOptions(intent.slots, false);
         tracker.query(options)
         .then(function(result){
@@ -38,7 +38,7 @@ AsciiCode.prototype.intentHandlers = {
         }).done();
     },
     "SumSinceIntent": function (intent, session, response) {
-        if (limitDate(intent.slots, response, true)){return;}
+        if (data.limitDate(intent.slots, response, true)){return;}
         var options = data.getOptions(intent.slots, true);
         tracker.query(options)
         .then(function(result){
@@ -47,7 +47,7 @@ AsciiCode.prototype.intentHandlers = {
         }).done();
     },
     "CountDuringIntent": function (intent, session, response) {
-        if (limitDate(intent.slots, response, false)){return;}
+        if (data.limitDate(intent.slots, response, false)){return;}
         var options = data.getOptions(intent.slots, false);
         tracker.query(options)
         .then(function(result){            
@@ -56,7 +56,43 @@ AsciiCode.prototype.intentHandlers = {
         }).done();
     },
     "CountSinceIntent": function (intent, session, response) {
-        if (limitDate(intent.slots, response, true)){return;}
+        if (data.limitDate(intent.slots, response, true)){return;}
+        var options = data.getOptions(intent.slots, true);
+        tracker.query(options)
+        .then(function(result){
+            var speak = getSpeech(result, options, true);
+            response.tellWithCard(speak[0], "Mass Shootings", speak[1]);
+        }).done();
+    },
+    "AvgSumDuringIntent": function (intent, session, response) {
+        if (data.limitDate(intent.slots, response, false)){return;}
+        var options = data.getOptions(intent.slots, false);
+        tracker.query(options)
+        .then(function(result){
+            var speak = getSpeech(result, options, false);
+            response.tellWithCard(speak[0], "Mass Shootings", speak[1]);
+        }).done();
+    },
+    "AvgSumSinceIntent": function (intent, session, response) {
+        if (data.limitDate(intent.slots, response, true)){return;}
+        var options = data.getOptions(intent.slots, true);
+        tracker.query(options)
+        .then(function(result){
+            var speak = getSpeech(result, options, false);
+            response.tellWithCard(speak[0], "Mass Shootings", speak[1]);
+        }).done();
+    },
+    "AvgCountDuringIntent": function (intent, session, response) {
+        if (data.limitDate(intent.slots, response, false)){return;}
+        var options = data.getOptions(intent.slots, false);
+        tracker.query(options)
+        .then(function(result){            
+            var speak = getSpeech(result, options, true);
+            response.tellWithCard(speak[0], "Mass Shootings", speak[1]);
+        }).done();
+    },
+    "AvgCountSinceIntent": function (intent, session, response) {
+        if (data.limitDate(intent.slots, response, true)){return;}
         var options = data.getOptions(intent.slots, true);
         tracker.query(options)
         .then(function(result){
@@ -65,8 +101,8 @@ AsciiCode.prototype.intentHandlers = {
         }).done();
     },
     'AMAZON.HelpIntent' : function (intent, session, response) {
-        speechOutput = '<speak>You may ask me how many mass shootings there have been in america. Find out more at w w w dot mass shooting tracker dot com, or join the conversation on reddit in r guns are cool.</speak>';
-        repromptText = '<speak>You may ask me how many mass shootings there have been in america. Find out more at w w w dot mass shooting tracker dot com, or join the conversation on reddit in r guns are cool.</speak>';
+        speechOutput = '<speak>I can tell you how many mass shootings there have been in america and how many were shot, killed or wounded. I define a mass shooting as an incident of violence in which 4 or more people are shot. Find out more at w w w dot mass shooting tracker dot org, or join the conversation on reddit in r guns are cool.</speak>';
+        repromptText = '<speak>I can tell you how many mass shootings there have been in america and how many were shot, killed or wounded. I define a mass shooting as an incident of violence in which 4 or more people are shot. Find out more at w w w dot mass shooting tracker dot org, or join the conversation on reddit in r guns are cool.</speak>';
         response.ask(speechOutput, repromptText);
     },
     'AMAZON.StopIntent' : function (intent, session, response) {
@@ -80,18 +116,46 @@ AsciiCode.prototype.intentHandlers = {
 var getSpeech = function(result, options, countOnly) {
     var speak = '';
     var by = 'since';
+    var curr = false;
+    var thisDate = new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate());
+
+console.log(result);
+
+    if(options.dateParts === 1 && options.startDate.getFullYear() === thisDate.getFullYear()){
+        curr = true;
+    }
+    if(options.dateParts === 2 && options.startDate.getFullYear() === thisDate.getFullYear() && options.startDate.getMonth() === thisDate.getMonth()){
+        curr = true;
+    }
+
     if(!options.since){
         by = options.dateParts === 3 ? 'on' : 'in';
     }
     if(countOnly){
-        speak += 'There ' + (result[1] === 1 ? 'was ' : 'were ');
-        speak += '<say-as interpret-as="cardinal">' + result[1] + '</say-as> mass shooting' + (result[1] === 1 ? ' ' : 's ');
+        if(options.hasBucket){        
+            speak += 'There was an average of <say-as interpret-as="cardinal">' + result[3] + '</say-as> mass shooting' + (result[3] === 1 ? ' per ' : 's per ') + options.bucket + ' ';
+        }
+        else {
+            speak += 'There ' + (result[1] === 1 ? 'was ' : 'were ');
+            speak += '<say-as interpret-as="cardinal">' + result[1] + '</say-as> mass shooting' + (result[1] === 1 ? ' ' : 's ');
+        }
         speak += by + ' <say-as interpret-as="date" format="ymd">' + options.dateString + '</say-as>';
+        if(curr && !options.since && result[1] > 0){speak += ' so far'}
     }
     else {
-        speak += '<say-as interpret-as="cardinal">' + result[0] + '</say-as>' + (result[0] === 1 ? ' person was ' : ' people were ') + options.category + (options.category == 'wounded' ?  ' but not killed ' : ' ');
+        if(options.hasBucket){
+            speak += 'An average of <say-as interpret-as="cardinal">' + result[2] + '</say-as>' + (result[2] === 1 ? ' person was ' : ' people were ');
+            speak += options.category + (options.category == 'wounded' ?  ' but not killed per ' : ' per ') + options.bucket + ' ';
+        }
+        else {
+            speak += '<say-as interpret-as="cardinal">' + result[0] + '</say-as>' + (result[0] === 1 ? ' person was ' : ' people were ');
+            speak += options.category + (options.category == 'wounded' ?  ' but not killed ' : ' ');
+        }
         speak += by + ' <say-as interpret-as="date" format="ymd">' + options.dateString + '</say-as>'; 
-        speak += ' in <say-as interpret-as="cardinal">' + result[1] + '</say-as> mass shooting' + (result[1] === 1 ? '' : 's');
+        if(!options.hasBucket){
+            speak += ' in <say-as interpret-as="cardinal">' + result[1] + '</say-as> mass shooting' + (result[1] === 1 ? '' : 's');
+        }
+        if(curr && !options.since && result[0] > 0){speak += ' so far'}
     }
     if(options.city){
         speak += ' in ' + options.city;
@@ -108,24 +172,7 @@ var getSpeech = function(result, options, countOnly) {
     return [speak, card];
 }
 
-var limitDate = function(slots, response, since){
-    if(slots.date.value){
-        var date = new Date(Date.parse(slots.date.value));
-        var dateParts = slots.date.value.split('-').length;
-
-        if(date < new Date(2013, 0, 1)){
-            response.tell('<speak>I\'m sorry, I do not have data prior to <say-as interpret-as="date" format="ymd">2013-01-01</say-as></speak>')
-            return true;
-        }
-        if(date > new Date()){
-            response.tell('<speak>I\'m sorry, I do not have data on future shootings</speak>')
-            return true;
-        }
-    }
-    return false;
-}
-
 exports.handler = function (event, context) {
-    var asciiCode = new AsciiCode();
-    asciiCode.execute(event, context);
+    var massShootingTracker = new MassShootingTracker();
+    massShootingTracker.execute(event, context);
 };

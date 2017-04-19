@@ -572,3 +572,576 @@ CountSinceIntent after {date} how many in {city} {state}
 CountSinceIntent after {date} how many in {state} 
 CountSinceIntent after {date} how many in {city}
 CountSinceIntent after {date} how many
+AvgSumDuringIntent how many people {category} in {date} in {city} {state} per {bucket}
+AvgSumDuringIntent how many people {category} in {date} in {city}
+AvgSumDuringIntent how many people {category} in {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people {category} in {date} per {bucket} 
+AvgSumDuringIntent how many people {category} on {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people {category} on {date} in {city} per {bucket} 
+AvgSumDuringIntent how many people {category} on {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people {category} on {date} per {bucket} 
+AvgSumDuringIntent how many people {category} during {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people {category} during {date} in {city} per {bucket} 
+AvgSumDuringIntent how many people {category} during {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people {category} during {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} per {bucket} 
+AvgSumDuringIntent how many people {category} in {state} per {bucket} 
+AvgSumDuringIntent how many people {category} per {bucket} 
+AvgSumDuringIntent how many {category} in {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many {category} in {date} in {city} per {bucket} 
+AvgSumDuringIntent how many {category} in {date} in {state} per {bucket} 
+AvgSumDuringIntent how many {category} in {date} per {bucket} 
+AvgSumDuringIntent how many {category} on {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many {category} on {date} in {city} per {bucket} 
+AvgSumDuringIntent how many {category} on {date} in {state} per {bucket} 
+AvgSumDuringIntent how many {category} on {date} per {bucket} 
+AvgSumDuringIntent how many {category} during {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many {category} during {date} in {city} per {bucket} 
+AvgSumDuringIntent how many {category} during {date} in {state} per {bucket} 
+AvgSumDuringIntent how many {category} during {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} per {bucket} 
+AvgSumDuringIntent how many {category} in {state} per {bucket} 
+AvgSumDuringIntent how many {category} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {date} in {city} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} on {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} on {date} in {city} per {bucket} 
+AvgSumDuringIntent how many people were {category} on {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} on {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} during {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} during {date} in {city} per {bucket} 
+AvgSumDuringIntent how many people were {category} during {date} in {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} during {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {state} per {bucket} 
+AvgSumDuringIntent how many people were {category} per {bucket} 
+AvgSumDuringIntent how many were {category} in {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many were {category} in {date} in {city} per {bucket} 
+AvgSumDuringIntent how many were {category} in {date} in {state} per {bucket} 
+AvgSumDuringIntent how many were {category} in {date} per {bucket} 
+AvgSumDuringIntent how many were {category} on {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many were {category} on {date} in {city} per {bucket} 
+AvgSumDuringIntent how many were {category} on {date} in {state} per {bucket} 
+AvgSumDuringIntent how many were {category} on {date} per {bucket} 
+AvgSumDuringIntent how many were {category} during {date} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many were {category} during {date} in {city} per {bucket} 
+AvgSumDuringIntent how many were {category} during {date} in {state} per {bucket} 
+AvgSumDuringIntent how many were {category} during {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} {state} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} per {bucket} 
+AvgSumDuringIntent how many were {category} in {state} per {bucket} 
+AvgSumDuringIntent how many were {category} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} {state} in {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} in {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {state} in {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} {state} on {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {state} on {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} on {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} {state} during {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {state} during {date} per {bucket} 
+AvgSumDuringIntent how many people were {category} in {city} during {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} {state} in {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} in {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {state} in {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} {state} on {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {state} on {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} on {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} {state} during {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {state} during {date} per {bucket} 
+AvgSumDuringIntent how many were {category} in {city} during {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} {state} in {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} in {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {state} in {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} {state} on {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {state} on {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} on {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} {state} during {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {state} during {date} per {bucket} 
+AvgSumDuringIntent how many {category} in {city} during {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} {state} in {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} in {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {state} in {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} {state} on {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {state} on {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} on {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} {state} during {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {state} during {date} per {bucket} 
+AvgSumDuringIntent how many people {category} in {city} during {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people were {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people were {category} in {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people were {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people were {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people were {category} on {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people were {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people were {category} per {bucket} 
+AvgSumDuringIntent in {city} how many people were {category} per {bucket} 
+AvgSumDuringIntent in {state} how many people were {category} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many were {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} how many were {category} in {date} per {bucket} 
+AvgSumDuringIntent in {state} how many were {category} in {date} bry {bucket} 
+AvgSumDuringIntent in {city} {state} how many were {category} on {date} bry {bucket} 
+AvgSumDuringIntent in {city} how many were {category} on {date} bry {bucket} 
+AvgSumDuringIntent in {state} how many were {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} how many were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {state} how many were {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many were {category} per {bucket} 
+AvgSumDuringIntent in {city} how many were {category} per {bucket} 
+AvgSumDuringIntent in {state} how many were {category} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} how many {category} in {date} per {bucket} 
+AvgSumDuringIntent in {state} how many {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} how many {category} on {date} per {bucket} 
+AvgSumDuringIntent in {state} how many {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} how many {category} during {date} per {bucket} 
+AvgSumDuringIntent in {state} how many {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many {category} per {bucket} 
+AvgSumDuringIntent in {city} how many {category} per {bucket} 
+AvgSumDuringIntent in {state} how many {category} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people {category} in {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people {category} in {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people {category} on {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people {category} on {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} how many people {category} during {date} per {bucket} 
+AvgSumDuringIntent in {state} how many people {category} during {date} per {bucket} 
+AvgSumDuringIntent in {city} {state} how many people {category} by  {bucket} 
+AvgSumDuringIntent in {city} how many people {category} by  {bucket} 
+AvgSumDuringIntent in {state} how many people {category} by  {bucket} 
+AvgSumSinceIntent how many people {category} since {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many people {category} since {date} in {city} per {bucket} 
+AvgSumSinceIntent how many people {category} since {date} in {state} per {bucket} 
+AvgSumSinceIntent how many people {category} since {date} per {bucket} 
+AvgSumSinceIntent how many people {category} after {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many people {category} after {date} in {city} per {bucket} 
+AvgSumSinceIntent how many people {category} after {date} in {state} per {bucket} 
+AvgSumSinceIntent how many people {category} after {date} per {bucket} 
+AvgSumSinceIntent how many {category} since {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many {category} since {date} in {city} by  {bucket} 
+AvgSumSinceIntent how many {category} since {date} in {state} by  {bucket} 
+AvgSumSinceIntent how many {category} since {date} by  {bucket} 
+AvgSumSinceIntent how many {category} after {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many {category} after {date} in {city} per {bucket} 
+AvgSumSinceIntent how many {category} after {date} in {state} per {bucket} 
+AvgSumSinceIntent how many {category} after {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} since {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many people were {category} since {date} in {city} per {bucket} 
+AvgSumSinceIntent how many people were {category} since {date} in {state} per {bucket} 
+AvgSumSinceIntent how many people were {category} since {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} after {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many people were {category} after {date} in {city} per {bucket} 
+AvgSumSinceIntent how many people were {category} after {date} in {state} per {bucket} 
+AvgSumSinceIntent how many people were {category} after {date} per {bucket} 
+AvgSumSinceIntent how many were {category} since {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many were {category} since {date} in {city} per {bucket} 
+AvgSumSinceIntent how many were {category} since {date} in {state} per {bucket} 
+AvgSumSinceIntent how many were {category} since {date} per {bucket} 
+AvgSumSinceIntent how many were {category} after {date} in {city} {state} per {bucket} 
+AvgSumSinceIntent how many were {category} after {date} in {city} per {bucket} 
+AvgSumSinceIntent how many were {category} after {date} in {state} per {bucket} 
+AvgSumSinceIntent how many were {category} after {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {city} {state} since {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {city} since {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {state} since {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {city} {state} after {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {state} after {date} per {bucket} 
+AvgSumSinceIntent how many people were {category} in {city} after {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {city} {state} since {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {city} since {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {state} since {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {city} {state} after {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {state} after {date} per {bucket} 
+AvgSumSinceIntent how many were {category} in {city} after {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {city} {state} since {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {city} since {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {state} since {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {city} {state} after {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {state} after {date} per {bucket} 
+AvgSumSinceIntent how many {category} in {city} after {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {city} {state} since {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {city} since {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {state} since {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {city} {state} after {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {state} after {date} per {bucket} 
+AvgSumSinceIntent how many people {category} in {city} after {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many people were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} how many people were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {state} how many people were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many people were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} how many people were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {state} how many people were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} how many were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {state} how many were {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} how many were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {state} how many were {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} how many {category} since {date} per {bucket} 
+AvgSumSinceIntent in {state} how many {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} how many {category} after {date} per {bucket} 
+AvgSumSinceIntent in {state} how many {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many people {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} how many people {category} since {date} per {bucket} 
+AvgSumSinceIntent in {state} how many people {category} since {date} per {bucket} 
+AvgSumSinceIntent in {city} {state} how many people {category} after {date} per {bucket} 
+AvgSumSinceIntent in {city} how many people {category} after {date} per {bucket} 
+AvgSumSinceIntent in {state} how many people {category} after {date} per {bucket} 
+AvgSumSinceIntent since {date} how many people were {category} in {city} {state} per {bucket} per {bucket} 
+AvgSumSinceIntent since {date} how many people were {category} in {state} per {bucket} 
+AvgSumSinceIntent since {date} how many people were {category} in {city} by  {bucket} 
+AvgSumSinceIntent since {date} how many people were {category} per {bucket} 
+AvgSumSinceIntent after {date} how many people were {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent after {date} how many people were {category} in {state} per {bucket} 
+AvgSumSinceIntent after {date} how many people were {category} in {city} by  {bucket} 
+AvgSumSinceIntent after {date} how many people were {category} by  {bucket} 
+AvgSumSinceIntent since {date} how many people {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent since {date} how many people {category} in {state} per {bucket} 
+AvgSumSinceIntent since {date} how many people {category} in {city} per {bucket} 
+AvgSumSinceIntent since {date} how many people {category} per {bucket} 
+AvgSumSinceIntent after {date} how many people {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent after {date} how many people {category} in {state} per {bucket} 
+AvgSumSinceIntent after {date} how many people {category} in {city} per {bucket} 
+AvgSumSinceIntent after {date} how many people {category} per {bucket} 
+AvgSumSinceIntent since {date} how many were {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent since {date} how many were {category} in {state} per {bucket} 
+AvgSumSinceIntent since {date} how many were {category} in {city} by  {bucket} 
+AvgSumSinceIntent since {date} how many were {category} per {bucket} 
+AvgSumSinceIntent after {date} how many were {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent after {date} how many were {category} in {state} per {bucket} 
+AvgSumSinceIntent after {date} how many were {category} in {city} by  {bucket} 
+AvgSumSinceIntent after {date} how many were {category} by  {bucket} 
+AvgSumSinceIntent since {date} how many {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent since {date} how many {category} in {state} per {bucket} 
+AvgSumSinceIntent since {date} how many {category} in {city} per {bucket} 
+AvgSumSinceIntent since {date} how many {category} per {bucket} 
+AvgSumSinceIntent after {date} how many {category} in {city} {state} per {bucket} 
+AvgSumSinceIntent after {date} how many {category} in {state} per {bucket} 
+AvgSumSinceIntent after {date} how many {category} in {city} per {bucket} 
+AvgSumSinceIntent after {date} how many {category} per {bucket} 
+AvgCountDuringIntent mass shootings in {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent mass shootings in {date} in {city} per {bucket} 
+AvgCountDuringIntent mass shootings in {date} in {state} per {bucket} 
+AvgCountDuringIntent mass shootings in {date} per {bucket} 
+AvgCountDuringIntent mass shootings on {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent mass shootings on {date} in {city} per {bucket} 
+AvgCountDuringIntent mass shootings on {date} in {state} per {bucket} 
+AvgCountDuringIntent mass shootings on {date} per {bucket} 
+AvgCountDuringIntent mass shootings during {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent mass shootings during {date} in {city} per {bucket} 
+AvgCountDuringIntent mass shootings during {date} in {state} per {bucket} 
+AvgCountDuringIntent mass shootings during {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} {state} by  {bucket} 
+AvgCountDuringIntent mass shootings in {city} by  {bucket} 
+AvgCountDuringIntent mass shootings in {state} by  {bucket} 
+AvgCountDuringIntent how many in {date} in {city} {state} per  {bucket} 
+AvgCountDuringIntent how many in {date} in {city} per  {bucket} 
+AvgCountDuringIntent how many in {date} in {state} per  {bucket} 
+AvgCountDuringIntent how many in {date} per {bucket} 
+AvgCountDuringIntent how many on {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how many on {date} in {city} per {bucket} 
+AvgCountDuringIntent how many on {date} in {state} per {bucket} 
+AvgCountDuringIntent how many on {date} per {bucket} 
+AvgCountDuringIntent how many during {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how many during {date} in {city} per {bucket} 
+AvgCountDuringIntent how many during {date} in {state} per {bucket} 
+AvgCountDuringIntent how many during {date} per {bucket} 
+AvgCountDuringIntent how many in {city} {state} per {bucket} 
+AvgCountDuringIntent how many in {city} per {bucket} 
+AvgCountDuringIntent how many in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {date} in {city} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {date} in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there on {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there on {date} in {city} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there on {date} in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there on {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there during {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there during {date} in {city} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there during {date} in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there during {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there per {bucket}
+AvgCountDuringIntent how mass shootings were in {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {date} in {city} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {date} in {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were on {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were on {date} in {city} per {bucket} 
+AvgCountDuringIntent how mass shootings were on {date} in {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were on {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were during {date} in {city} {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were during {date} in {city} per {bucket} 
+AvgCountDuringIntent how mass shootings were during {date} in {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were during {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} {state} in {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} in {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {state} in {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} {state} on {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {state} on {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} on {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} {state} during {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {state} during {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} during {date} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {state} per {bucket} 
+AvgCountDuringIntent how many mass shootings were there in {city} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} {state} in {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} in {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {state} in {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} {state} on {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {state} on {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} on {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} {state} during {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {state} during {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} during {date} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {state} per {bucket} 
+AvgCountDuringIntent how mass shootings were in {city} per {bucket} 
+AvgCountDuringIntent how many in {city} {state} in {date} per {bucket} 
+AvgCountDuringIntent how many in {city} in {date} per {bucket} 
+AvgCountDuringIntent how many in {state} in {date} per {bucket} 
+AvgCountDuringIntent how many in {city} {state} on {date} per {bucket} 
+AvgCountDuringIntent how many in {state} on {date} per {bucket} 
+AvgCountDuringIntent how many in {city} on {date} per {bucket} 
+AvgCountDuringIntent how many in {city} {state} during {date} per {bucket} 
+AvgCountDuringIntent how many in {state} during {date} per {bucket} 
+AvgCountDuringIntent how many in {city} during {date} per {bucket} 
+AvgCountDuringIntent how many in {city} {state} per {bucket} 
+AvgCountDuringIntent how many in {state} per {bucket} 
+AvgCountDuringIntent how many in {city} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} {state} in {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} in {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {state} in {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} {state} on {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {state} on {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} on {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} {state} during {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {state} during {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} during {date} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} {state} per {bucket} 
+AvgCountDuringIntent mass shootings in {state} per {bucket} 
+AvgCountDuringIntent mass shootings in {city} per  {bucket} 
+AvgCountDuringIntent in {city} {state} how many mass shootings were there in {date} per  {bucket} 
+AvgCountDuringIntent in {city} how many mass shootings were there in {date} per  {bucket} 
+AvgCountDuringIntent in {state} how many mass shootings were there in {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many mass shootings were there on {date} per {bucket} 
+AvgCountDuringIntent in {city} how many mass shootings were there on {date} per {bucket} 
+AvgCountDuringIntent in {state} how many mass shootings were there on {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many mass shootings were there during {date} per {bucket} 
+AvgCountDuringIntent in {city} how many mass shootings were there during {date} per {bucket} 
+AvgCountDuringIntent in {state} how many mass shootings were there during {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many mass shootings were there per {bucket}
+AvgCountDuringIntent in {city} how many mass shootings were there per {bucket}
+AvgCountDuringIntent in {state} how many mass shootings were there per {bucket}
+AvgCountDuringIntent in {city} {state} how mass shootings were in {date} per {bucket} 
+AvgCountDuringIntent in {city} how mass shootings were in {date} per {bucket} 
+AvgCountDuringIntent in {state} how mass shootings were in {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how mass shootings were on {date} per {bucket} 
+AvgCountDuringIntent in {city} how mass shootings were on {date} per {bucket} 
+AvgCountDuringIntent in {state} how mass shootings were on {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how mass shootings were during {date} per {bucket} 
+AvgCountDuringIntent in {city} how mass shootings were during {date} per {bucket} 
+AvgCountDuringIntent in {state} how mass shootings were during {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many in {date} per {bucket} 
+AvgCountDuringIntent in {city} how many in {date} per {bucket} 
+AvgCountDuringIntent in {state} how many in {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many on {date} per {bucket} 
+AvgCountDuringIntent in {city} how many on {date} per {bucket} 
+AvgCountDuringIntent in {state} how many on {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many during {date} per {bucket} 
+AvgCountDuringIntent in {city} how many during {date} per {bucket} 
+AvgCountDuringIntent in {state} how many during {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} how many per {bucket}
+AvgCountDuringIntent in {city} how many per {bucket}
+AvgCountDuringIntent in {state} how many per {bucket}
+AvgCountDuringIntent in {city} {state} mass shootings in {date} per {bucket} 
+AvgCountDuringIntent in {city} mass shootings in {date} per {bucket} 
+AvgCountDuringIntent in {state} mass shootings in {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} mass shootings on {date} per {bucket} 
+AvgCountDuringIntent in {city} mass shootings on {date} per {bucket} 
+AvgCountDuringIntent in {state} mass shootings on {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} mass shootings during {date} per {bucket} 
+AvgCountDuringIntent in {city} mass shootings during {date} per {bucket} 
+AvgCountDuringIntent in {state} mass shootings during {date} per {bucket} 
+AvgCountDuringIntent in {city} {state} mass shootings per {bucket}
+AvgCountDuringIntent in {city} mass shootings per {bucket}
+AvgCountDuringIntent in {state} mass shootings per {bucket}
+AvgCountDuringIntent in {date} how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountDuringIntent in {date} how many mass shootings were there in {state} per {bucket} 
+AvgCountDuringIntent in {date} how many mass shootings were there in {city} per {bucket} 
+AvgCountDuringIntent in {date} how many mass shootings were there per {bucket} 
+AvgCountDuringIntent on {date} how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountDuringIntent on {date} how many mass shootings were there in {state} per {bucket} 
+AvgCountDuringIntent on {date} how many mass shootings were there in {city} per {bucket} 
+AvgCountDuringIntent on {date} how many mass shootings were there per {bucket}
+AvgCountDuringIntent during {date} how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountDuringIntent during {date} how many mass shootings were there in {state} per {bucket} 
+AvgCountDuringIntent during {date} how many mass shootings were there in {city} per {bucket} 
+AvgCountDuringIntent during {date} how many mass shootings were there per {bucket}
+AvgCountDuringIntent in {date} mass shootings in {city} {state} per {bucket} 
+AvgCountDuringIntent in {date} mass shootings in {state} per {bucket} 
+AvgCountDuringIntent in {date} mass shootings in {city} per {bucket} 
+AvgCountDuringIntent in {date} mass shootings per {bucket} 
+AvgCountDuringIntent on {date} mass shootings in {city} {state} per {bucket} 
+AvgCountDuringIntent on {date} mass shootings in {state} per {bucket} 
+AvgCountDuringIntent on {date} mass shootings in {city} per {bucket} 
+AvgCountDuringIntent on {date} mass shootings per {bucket}
+AvgCountDuringIntent during {date} mass shootings in {city} {state} per {bucket} 
+AvgCountDuringIntent during {date} mass shootings in {state} per {bucket} 
+AvgCountDuringIntent during {date} mass shootings in {city} per {bucket} 
+AvgCountDuringIntent during {date} mass shootings per {bucket}
+AvgCountDuringIntent in {date} how mass shootings were in {city} {state} per {bucket} 
+AvgCountDuringIntent in {date} how mass shootings were in {state} per {bucket} 
+AvgCountDuringIntent in {date} how mass shootings were in {city} per {bucket} 
+AvgCountDuringIntent in {date} how mass shootings were per {bucket} 
+AvgCountDuringIntent on {date} how mass shootings were in {city} {state} per {bucket} 
+AvgCountDuringIntent on {date} how mass shootings were in {state} per {bucket} 
+AvgCountDuringIntent on {date} how mass shootings were in {city} per {bucket} 
+AvgCountDuringIntent on {date} how mass shootings were per {bucket}
+AvgCountDuringIntent during {date} how mass shootings were in {city} {state} per {bucket} 
+AvgCountDuringIntent during {date} how mass shootings were in {state} per {bucket} 
+AvgCountDuringIntent during {date} how mass shootings were in {city} per {bucket} 
+AvgCountDuringIntent during {date} how mass shootings were per {bucket}
+AvgCountDuringIntent in {date} how many in {city} {state} per {bucket} 
+AvgCountDuringIntent in {date} how many in {state} per {bucket} 
+AvgCountDuringIntent in {date} how many in {city} per {bucket} 
+AvgCountDuringIntent in {date} how many per {bucket} 
+AvgCountDuringIntent on {date} how many in {city} {state} per {bucket} 
+AvgCountDuringIntent on {date} how many in {state} per {bucket} 
+AvgCountDuringIntent on {date} how many in {city} per {bucket} 
+AvgCountDuringIntent on {date} how many per {bucket}
+AvgCountDuringIntent during {date} how many in {city} {state} per {bucket} 
+AvgCountDuringIntent during {date} how many in {state} per {bucket} 
+AvgCountDuringIntent during {date} how many in {city} per {bucket} 
+AvgCountDuringIntent during {date} how many per {bucket}
+AvgCountSinceIntent mass shootings since {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent mass shootings since {date} in {city} per {bucket} 
+AvgCountSinceIntent mass shootings since {date} in {state} per {bucket} 
+AvgCountSinceIntent mass shootings since {date} per {bucket} 
+AvgCountSinceIntent mass shootings after {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent mass shootings after {date} in {city} per {bucket} 
+AvgCountSinceIntent mass shootings after {date} in {state} per {bucket} 
+AvgCountSinceIntent mass shootings after {date} per {bucket} 
+AvgCountSinceIntent how many since {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how many since {date} in {city} per {bucket} 
+AvgCountSinceIntent how many since {date} in {state} per {bucket} 
+AvgCountSinceIntent how many since {date} per {bucket} 
+AvgCountSinceIntent how many after {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how many after {date} in {city} per {bucket} 
+AvgCountSinceIntent how many after {date} in {state} per {bucket} 
+AvgCountSinceIntent how many after {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there since {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there since {date} in {city} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there since {date} in {state} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there since {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there after {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there after {date} in {city} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there after {date} in {state} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there after {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were since {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how mass shootings were since {date} in {city} per {bucket} 
+AvgCountSinceIntent how mass shootings were since {date} in {state} per {bucket} 
+AvgCountSinceIntent how mass shootings were since {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were after {date} in {city} {state} per {bucket} 
+AvgCountSinceIntent how mass shootings were after {date} in {city} per {bucket} 
+AvgCountSinceIntent how mass shootings were after {date} in {state} per {bucket} 
+AvgCountSinceIntent how mass shootings were after {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {city} {state} since {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {city} since {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {state} since {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {city} {state} after {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {state} after {date} per {bucket} 
+AvgCountSinceIntent how many mass shootings were there in {city} after {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {city} {state} since {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {city} since {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {state} since {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {city} {state} after {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {state} after {date} per {bucket} 
+AvgCountSinceIntent how mass shootings were in {city} after {date} per {bucket} 
+AvgCountSinceIntent how many in {city} {state} since {date} per  {bucket} 
+AvgCountSinceIntent how many in {city} since {date} per  {bucket} 
+AvgCountSinceIntent how many in {state} since {date} per  {bucket} 
+AvgCountSinceIntent how many in {city} {state} after {date} per {bucket} 
+AvgCountSinceIntent how many in {state} after {date} per {bucket} 
+AvgCountSinceIntent how many in {city} after {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {city} {state} since {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {city} since {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {state} since {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {city} {state} after {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {state} after {date} per {bucket} 
+AvgCountSinceIntent mass shootings in {city} after {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how many mass shootings were there since {date} per {bucket} 
+AvgCountSinceIntent in {city} how many mass shootings were there since {date} per {bucket} 
+AvgCountSinceIntent in {state} how many mass shootings were there since {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how many mass shootings were there after {date} per {bucket} 
+AvgCountSinceIntent in {city} how many mass shootings were there after {date} per {bucket} 
+AvgCountSinceIntent in {state} how many mass shootings were there after {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how mass shootings were since {date} per {bucket} 
+AvgCountSinceIntent in {city} how mass shootings were since {date} per {bucket} 
+AvgCountSinceIntent in {state} how mass shootings were since {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how mass shootings were after {date} per {bucket} 
+AvgCountSinceIntent in {city} how mass shootings were after {date} per {bucket} 
+AvgCountSinceIntent in {state} how mass shootings were after {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how many since {date} per {bucket} 
+AvgCountSinceIntent in {city} how many since {date} per {bucket} 
+AvgCountSinceIntent in {state} how many since {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} how many after {date} per {bucket} 
+AvgCountSinceIntent in {city} how many after {date} per {bucket} 
+AvgCountSinceIntent in {state} how many after {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} mass shootings since {date} per {bucket} 
+AvgCountSinceIntent in {city} mass shootings since {date} per {bucket} 
+AvgCountSinceIntent in {state} mass shootings since {date} per {bucket} 
+AvgCountSinceIntent in {city} {state} mass shootings after {date} per {bucket} 
+AvgCountSinceIntent in {city} mass shootings after {date} per {bucket} 
+AvgCountSinceIntent in {state} mass shootings after {date} per {bucket} 
+AvgCountSinceIntent since {date} how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountSinceIntent since {date} how many mass shootings were there in {state} per {bucket} 
+AvgCountSinceIntent since {date} how many mass shootings were there in {city} per {bucket} 
+AvgCountSinceIntent since {date} how many mass shootings were there per {bucket} 
+AvgCountSinceIntent after {date} how many mass shootings were there in {city} {state} per {bucket} 
+AvgCountSinceIntent after {date} how many mass shootings were there in {state} per {bucket} 
+AvgCountSinceIntent after {date} how many mass shootings were there in {city} per {bucket} 
+AvgCountSinceIntent after {date} how many mass shootings were there per {bucket}
+AvgCountSinceIntent since {date} mass shootings in {city} {state} per {bucket} 
+AvgCountSinceIntent since {date} mass shootings in {state} per {bucket} 
+AvgCountSinceIntent since {date} mass shootings in {city} per {bucket} 
+AvgCountSinceIntent since {date} mass shootings per {bucket} 
+AvgCountSinceIntent after {date} mass shootings in {city} {state} per {bucket} 
+AvgCountSinceIntent after {date} mass shootings in {state} per {bucket} 
+AvgCountSinceIntent after {date} mass shootings in {city} per {bucket} 
+AvgCountSinceIntent after {date} mass shootings per {bucket}
+AvgCountSinceIntent since {date} how mass shootings were in {city} {state} per {bucket} 
+AvgCountSinceIntent since {date} how mass shootings were in {state} per {bucket} 
+AvgCountSinceIntent since {date} how mass shootings were in {city} per {bucket} 
+AvgCountSinceIntent since {date} how mass shootings were per {bucket} 
+AvgCountSinceIntent after {date} how mass shootings were in {city} {state} per {bucket} 
+AvgCountSinceIntent after {date} how mass shootings were in {state} per {bucket} 
+AvgCountSinceIntent after {date} how mass shootings were in {city} per {bucket}
+AvgCountSinceIntent since {date} how many in {city} {state} per {bucket} 
+AvgCountSinceIntent since {date} how many in {state} per {bucket} 
+AvgCountSinceIntent since {date} how many in {city} per {bucket} 
+AvgCountSinceIntent since {date} how many per {bucket} 
+AvgCountSinceIntent after {date} how many in {city} {state} per {bucket} 
+AvgCountSinceIntent after {date} how many in {state} per {bucket} 
+AvgCountSinceIntent after {date} how many in {city} per {bucket} 
+AvgCountSinceIntent after {date} how many per {bucket}

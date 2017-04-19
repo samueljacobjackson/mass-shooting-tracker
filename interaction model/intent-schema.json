@@ -83,6 +83,106 @@
           "type": "Category"
         }
       ]
+    },
+    {
+      "intent": "AvgSumDuringIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        },
+        {
+          "name": "bucket",
+          "type": "Bucket"
+        }
+      ]
+    },
+    {
+      "intent": "AvgSumSinceIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        },
+        {
+          "name": "bucket",
+          "type": "Bucket"
+        }
+      ]
+    },
+    {
+      "intent": "AvgCountDuringIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        },
+        {
+          "name": "bucket",
+          "type": "Bucket"
+        }
+      ]
+    },
+    {
+      "intent": "AvgCountSinceIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "category",
+          "type": "Category"
+        },
+        {
+          "name": "bucket",
+          "type": "Bucket"
+        }
+      ]
     }
   ]
 }
